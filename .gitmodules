@@ -1,3 +1,7 @@
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+
+[submodule "path/to/openzepplin"]
+    path= path/to/openzepplin
+	url= https://github.com/OpenZepplin/openzepplin-contracts.git
